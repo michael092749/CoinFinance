@@ -22,4 +22,4 @@ CoinFinance is a Python-based application that gathers real-time cryptocurrency 
 
 `pip install luno`
 
-3. Visit the [Binance website](https://www.binance.com/en-ZA/binance-api), [Crypto.com website](https://help.crypto.com/en/articles/3511424-api) and [luno webiste](https://www.luno.com/en/developers/api)to generate API key and secret, and then store it in the `keys.json` file.
+3. Visit the [Binance website](https://www.binance.com/en-ZA/binance-api), [Crypto.com website](https://help.crypto.com/en/articles/3511424-api) and [luno webiste](https://www.luno.com/en/developers/api) to generate API key and secret, and then store it in the `keys.json` file.
