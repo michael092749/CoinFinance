@@ -1,0 +1,14 @@
+{
+  "crypto.com": {
+    "api_key": "",
+    "secret_key": ""
+  },
+  "luno": {
+    "api_key": "",
+    "secret_key": ""
+  },
+  "binance": {
+    "api_key": "",
+    "secret_key": ""
+  }
+}
